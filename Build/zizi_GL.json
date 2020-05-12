@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "zizi",
+"productName": "zizi5_webGL_test",
 "productVersion": "0.1",
 "dataUrl": "zizi_GL.data.unityweb",
 "wasmCodeUrl": "zizi_GL.wasm.code.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.10f1"
+"unityVersion": "2019.3.13f1"
 }
